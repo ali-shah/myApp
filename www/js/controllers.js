@@ -48,7 +48,7 @@ angular.module('starter.controllers', [])
     { title: 'Jazz', id: 3 },
     { title: 'Blues', id: 4 },
     { title: 'Rap', id: 5 },
-    { title: 'Pop', id: 6 }
+    { title: 'Folk', id: 6 }
   ];
 })
 
